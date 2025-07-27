@@ -9,4 +9,8 @@ Installation :
 -   Copier ce fichier dans `.git/hooks/` sous le nom `pre-commit`
 -   Rendre le fichier exécutable : `chmod +x .git/hooks/pre-commit`
 
+<<<<<<< HEAD
 # Ceci est une modification faite directement à partir de Github
+=======
+# Ceci est une mofication en faite en locale - test conflit
+>>>>>>> cfd0d96 (C10 : modification locale en conflit)
