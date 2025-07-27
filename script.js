@@ -1,2 +1,4 @@
-document.querySelector("title").textContent = "Hello world";
-document.getElementById("texte").textContent = "Hello world";
+import { HELLO_WORLD_TITLE, HELLO_WORLD_TEXT } from "./constantes.js";
+
+document.title = HELLO_WORLD_TITLE;
+document.getElementById("texte").textContent = HELLO_WORLD_TEXT;
