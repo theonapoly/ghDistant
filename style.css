@@ -9,7 +9,7 @@ body {
 }
 
 .fenetre {
-    width: 300px;
+    width: 500px;
     height: 300px;
     border: 1px solid black;
     display: flex;
