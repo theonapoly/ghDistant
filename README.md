@@ -8,3 +8,5 @@ Installation :
 
 -   Copier ce fichier dans `.git/hooks/` sous le nom `pre-commit`
 -   Rendre le fichier exécutable : `chmod +x .git/hooks/pre-commit`
+
+# Ceci est une modification faite directement à partir de Github
