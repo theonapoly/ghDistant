@@ -1,2 +1,2 @@
-export const HELLO_WORLD_TITLE = "Title Hello world";
-export const HELLO_WORLD_TEXT = "Hello world text";
+export const HELLO_WORLD_TITLE = "Nouvelle fenêtre Hello";
+export const HELLO_WORLD_TEXT = "Bienvenue dans l'exercice";
